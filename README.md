@@ -3,7 +3,7 @@
 
 Sou formada em **Biblioteconomia pela UFRJ** e estou em transição de carreira para a área de **Análise de Dados**. Tenho mais de 6 anos de experiência na gestão de acervos especializados e organização da informação — agora, meu foco está em aplicar essa bagagem em projetos que envolvam dados, estatísticas e visualizações inteligentes.
 
-💡 Minha paixão por dados vem do desejo de transformar informação em conhecimento útil e acessível, seja para tomada de decisão, otimização de processos ou criação de insights estratégicos.
+💡 Meu interesse por dados vem do desejo de transformar informação em conhecimento útil e acessível, seja para tomada de decisão, otimização de processos ou criação de insights estratégicos.
 
 ---
 
@@ -32,8 +32,8 @@ Atuar como **Analista de Dados**, unindo minha experiência com organização da
 
 ## 🌐 Vamos nos conectar?
 
-- [LinkedIn](https://www.linkedin.com/in/seulink)  
-- [E-mail](mailto:seuemail@email.com)
+- [LinkedIn](https://www.linkedin.com/in/stephaniecostasilva)  
+- [E-mail](mailto:stecostar@hotmail.com)
 
 ---
 
