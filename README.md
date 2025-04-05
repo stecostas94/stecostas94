@@ -1,5 +1,5 @@
 
-# 👩‍💻 Olá! Eu sou a Stephanie
+#  Olá, Eu sou a Stephanie!
 
 Sou formada em **Biblioteconomia pela UFRJ** e estou em transição de carreira para a área de **Análise de Dados**. Tenho mais de 6 anos de experiência na gestão de acervos especializados e organização da informação — agora, meu foco está em aplicar essa bagagem em projetos que envolvam dados, estatísticas e visualizações inteligentes.
 
