@@ -1,7 +1,7 @@
 
-#  Olá, Eu sou a Stephanie!
+#  Prazer, sou a Stephanie! :)
 
-Sou formada em **Biblioteconomia pela UFRJ** e estou em transição de carreira para a área de **Análise de Dados**. Tenho mais de 6 anos de experiência na gestão de acervos especializados e organização da informação — agora, meu foco está em aplicar essa bagagem em projetos que envolvam dados, estatísticas e visualizações inteligentes.
+Sou formada em **Biblioteconomia pela UFRJ** e estou em transição de carreira para a área de **Análise de Dados**. Tenho quase 10 anos de experiência na gestão de acervos especializados e organização da informação — agora, meu foco está em aplicar essa bagagem em projetos que envolvam dados, estatísticas e visualizações inteligentes.
 
 💡 Meu interesse por dados vem do desejo de transformar informação em conhecimento útil e acessível, seja para tomada de decisão, otimização de processos ou criação de insights estratégicos.
 
@@ -9,9 +9,9 @@ Sou formada em **Biblioteconomia pela UFRJ** e estou em transição de carreira 
 
 ## 🚀 Em aprendizado contínuo
 
-Recentemente concluí o **Bootcamp de Análise de Dados da TripleTen**, onde trabalhei na prática com o ciclo completo de análise: coleta, limpeza, tratamento, visualização e interpretação de dados.
+Recentemente concluí o **Bootcamp de Análise de Dados da TripleTen**, onde trabalhei na prática com o ciclo completo de análise: coleta, limpeza, tratamento, visualização e interpretação de dados. Desenvolvi projetos aplicados utilizando Python, SQL e Tableau — e alguns deles já estão disponíveis aqui no meu portfólio.
 
-Desenvolvendo projetos práticos com Python, SQL, e Tableau, que em breve estarão disponíveis aqui no meu perfil.
+Além disso, estou planejando novos projetos autorais para aprofundar meus estudos e compartilhar ainda mais experiências com a comunidade.
 
 ---
 
@@ -30,11 +30,4 @@ Atuar como **Analista de Dados**, unindo minha experiência com organização da
 
 ---
 
-## 🌐 Vamos nos conectar?
-
-- [LinkedIn](https://www.linkedin.com/in/stephaniecostasilva)  
-- [E-mail](mailto:stecostar@hotmail.com)
-
----
-
-✨ Obrigada por visitar meu perfil! Em breve, novos projetos estarão por aqui. 🚀
+✨ Obrigada por visitar meu perfil! Fique à vontade para explorar os projetos, trocar ideias e voltar sempre que quiser 🚀
