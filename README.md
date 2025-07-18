@@ -30,9 +30,7 @@ Atuar como **Analista de Dados**, unindo minha experiência com organização da
 
 ---
 
-## 🎓 Certificados
-
-<h2>📜 Licenças</h2>
+## 🎓 Certificados e Licenças
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado2-1.png" alt="Certificado2" width="250"/>
@@ -42,9 +40,14 @@ Atuar como **Analista de Dados**, unindo minha experiência com organização da
 
 <p float="left">
   <img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado5-1.png" alt="Certificado5" width="250"/>
-  <img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado01-1.jpg" alt="Certificado01" width="250"/>
+  <img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/NarradorDados.jpg" alt="NarradorDados" width="250"/>
   <img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado02-1.jpg" alt="Certificado02" width="250"/>
 </p>
 
+<p float="left">
+<img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/certificadoBootcamp.png" alt="CertificadoBootcamp" width="250"/>
+<img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/diplomaMBA.png" alt="DiplomaMBA" width="250"/>
+<img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado01-1.jpg" alt="Certificado01" width="250"/>
+</p>
 
 ✨ Obrigada por visitar meu perfil! Fique à vontade para explorar os projetos, trocar ideias e voltar sempre que quiser 🚀
