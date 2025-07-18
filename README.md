@@ -30,4 +30,19 @@ Atuar como **Analista de Dados**, unindo minha experiência com organização da
 
 ---
 
+![Certificado1]<https://github.com/stecostas94/stecostas94/blob/main/Certificado1-1.jpg>
+
+![Certificado2]<https://github.com/stecostas94/stecostas94/blob/main/Certificado2-1.png>
+
+![Certificado3]<https://github.com/stecostas94/stecostas94/blob/main/Certificado3-1.png>
+
+![Certificado4 ]<https://github.com/stecostas94/stecostas94/blob/main/Certificado4-1.png>
+
+![Certificado5]<https://github.com/stecostas94/stecostas94/blob/main/Certificado5-1.png>
+
+![Certificado01]<https://github.com/stecostas94/stecostas94/blob/main/Certificado01-1.jpg>
+
+![Certificado02]<https://github.com/stecostas94/stecostas94/blob/main/Certificado02-1.jpg>
+
+
 ✨ Obrigada por visitar meu perfil! Fique à vontade para explorar os projetos, trocar ideias e voltar sempre que quiser 🚀
