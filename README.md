@@ -32,13 +32,19 @@ Atuar como **Analista de Dados**, unindo minha experiência com organização da
 
 ## 🎓 Certificados
 
-<img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado1-1.jpg" alt="Certificado1">
-<img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado2-1.png" alt="Certificado2">
-<img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado3-1.png" alt="Certificado3">
-<img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado4-1.png" alt="Certificado4">
-<img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado5-1.png" alt="Certificado5">
-<img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado01-1.jpg" alt="Certificado01">
-<img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado02-1.jpg" alt="Certificado02">
+<h2>📜 Licenças</h2>
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado2-1.png" alt="Certificado2" width="250"/>
+  <img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado3-1.png" alt="Certificado3" width="250"/>
+  <img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado4-1.png" alt="Certificado4" width="250"/>
+</p>
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado5-1.png" alt="Certificado5" width="250"/>
+  <img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado01-1.jpg" alt="Certificado01" width="250"/>
+  <img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado02-1.jpg" alt="Certificado02" width="250"/>
+</p>
 
 
 ✨ Obrigada por visitar meu perfil! Fique à vontade para explorar os projetos, trocar ideias e voltar sempre que quiser 🚀
