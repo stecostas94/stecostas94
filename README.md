@@ -46,7 +46,7 @@ Atuar como **Analista de Dados**, unindo minha experiência com organização da
 
 <p float="left">
 <img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/certificadoBootcamp.png" alt="CertificadoBootcamp" width="250"/>
-<img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/diplomaMBA.png" alt="DiplomaMBA" width="250"/>
+<img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/diplomaMBA.jpg" alt="DiplomaMBA" width="250"/>
 <img src="https://raw.githubusercontent.com/stecostas94/stecostas94/main/Certificado01-1.jpg" alt="Certificado01" width="250"/>
 </p>
 
